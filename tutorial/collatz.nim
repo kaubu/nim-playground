@@ -20,5 +20,3 @@ while currentNumber != 1:
         currentNumber *= 3
         currentNumber += 1
         echo("(", oldNumber, " * 3) + 1 = ", currentNumber)
-
-

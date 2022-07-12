@@ -12,4 +12,3 @@ of 4..7:
 of 9:
     echo "NINERS"
 else: discard
-
